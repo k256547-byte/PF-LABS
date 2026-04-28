@@ -1,7 +1,5 @@
 # PF-LABS
 
 **SIBTAIN SAJJAD**
-
 **25K-6547**
-
 **BSCE-2A**
